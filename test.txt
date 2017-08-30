@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Updatig test file with new data
+=======
+added test text
+>>>>>>> 1f6da8f7392ef87fc5702369b76e1835dc8eef89
